@@ -1,0 +1,29 @@
+END-USER LICENSE AGREEMENT (EULA)
+
+Copyright (C) 2026 [Your Name or Company Name]. All rights reserved.
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE.
+
+By downloading, installing, or using this software (the "Software"), you agree to be bound by the terms and conditions of this End-User License Agreement ("Agreement"). If you do not agree, do not download, install, or use the Software.
+
+1. LICENSE GRANT
+The Author grants you a non-exclusive, non-transferable, personal license to download, install, and use the Software solely for your personal or internal business purposes.
+
+2. RESTRICTIONS
+You strictly agree NOT to:
+a) Decompile, disassemble, reverse engineer, or attempt to derive the source code of the Software.
+b) Modify, adapt, alter, translate, or create derivative works from the Software.
+c) Rent, lease, loan, resell, or distribute the Software to any third party without explicit written permission from the Author.
+d) Remove or alter any copyright notices, trademarks, or proprietary legends on the Software.
+
+3. OWNERSHIP
+The Software is licensed, not sold. The Author retains all right, title, and interest in and to the Software, including all intellectual property rights.
+
+4. TERMINATION
+This Agreement is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must cease all use and destroy all copies of the Software.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU.
+
+6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
