@@ -8,7 +8,7 @@ Bộ ứng dụng Kollersi — tải, đọc, xem và nghe mọi nội dung số
 
 ---
 
-## KDown
+## KDown [v1.0.0]
 
 <img src="kdown.png" width="72" align="left" style="margin-right:16px;border-radius:14px" />
 
