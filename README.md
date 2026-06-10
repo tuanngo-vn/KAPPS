@@ -19,8 +19,8 @@ Bộ ứng dụng Kollersi — tải, đọc, xem và nghe mọi nội dung số
 
 <br/>
 
-[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/tuanngo-vn/KAPPS/raw/main/kdown/KDown-Windows_1.0.0.zip)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/tuanngo-vn/KAPPS/raw/main/kdown/KDown-macOS_1.0.0.zip)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://cdn.kollersi.com/apps/kdown/KDown-Windows.zip)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://cdn.kollersi.com/apps/kdown/KDown-macOS_1.0.0.zip)
 
 ---
 ## KPLAYER v1.0.8 - FREE
