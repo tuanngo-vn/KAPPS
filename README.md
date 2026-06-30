@@ -48,9 +48,9 @@ Bộ ứng dụng Kollersi — tải, đọc, xem và nghe mọi nội dung số
 
 <br/>
 
-[![Windows !](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Windows !](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://cdn.kollersi.com/apps/kfilms/KFilmsPro_v1.0.4_Windows.zip)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kfilms-pro/id6779041413%20KFilms%20Pro)
-[![Android - Đang phát triển](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Android-Testing](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/apps/internaltest/4701577914910893468)
 [![iOS](https://img.shields.io/badge/iOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kfilms-pro/id6779041413?l=vi)
 
 ---
