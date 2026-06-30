@@ -39,7 +39,7 @@ Bộ ứng dụng Kollersi — tải, đọc, xem và nghe mọi nội dung số
 [![iOS](https://img.shields.io/badge/iOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kplayer-lite/id6761233373)
 
 ---
-## KFILMS PRO v1.0.1 - 0.99$/month | 6.99$/year
+## KFILMS PRO v1.0.1 - 0.99$/month | 8.99$/year
 <img src="https://img.kollersi.com/docs/kfilms_logo.png" width="72" align="left" style="margin-right:16px;border-radius:14px" />
 
 **Phần mềm hỗ trợ xem phim chuyên nghiệp support cloud kollersi, fshare, google và ondrive (đang phát triển).
