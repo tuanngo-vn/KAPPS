@@ -53,7 +53,7 @@ Bộ ứng dụng Kollersi — tải, đọc, xem và nghe mọi nội dung số
 [![Android-Testing](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/apps/internaltest/4701577914910893468)
 [![Android TV](https://img.shields.io/badge/Android%20TV-4285F4?style=for-the-badge&logo=google-tv&logoColor=white)](https://cdn.kollersi.com/apps/kfilms/KFilmsPro_v1.0.4_AndroidTV.apk)
 [![iOS](https://img.shields.io/badge/iOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kfilms-pro/id6779041413?l=vi)
-[![tvOS](https://img.shields.io/badge/tvOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=6779041413)
+[![tvOS](https://img.shields.io/badge/tvOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/kfilms-pro/id6779041413?platform=tv)
 
 ---
 ---
