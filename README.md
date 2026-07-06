@@ -39,7 +39,7 @@ Bộ ứng dụng Kollersi — tải, đọc, xem và nghe mọi nội dung số
 [![iOS](https://img.shields.io/badge/iOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kplayer-lite/id6761233373)
 
 ---
-## KFILMS PRO v1.0.4 - 0.99$/month | 9.99$/year
+## KFILMS PRO v1.0.6 - 0.99$/month | 9.99$/year
 <img src="https://img.kollersi.com/docs/kfilms_logo.png" width="72" align="left" style="margin-right:16px;border-radius:14px" />
 
 KFilms Pro là một ứng dụng đóng vai trò là trình phát đa phương tiện (media player) và hỗ trợ đồng bộ hóa các liên kết video/phim giữa nhiều thiết bị . Bản thân ứng dụng không chứa sẵn hay cung cấp nội dung phim, mà yêu cầu người dùng phải tự thêm (add) liên kết nội dung của mình vào để phát.
@@ -60,7 +60,7 @@ Các thiết bị chính có thể add media: iPhone, Mac, Android. Các thiết
 [![Windows !](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://cdn.kollersi.com/apps/kfilms/KFilmsPro_v1.0.4_Windows.zip)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kfilms-pro/id6779041413%20KFilms%20Pro)
 [![Android-Testing](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/apps/internaltest/4701577914910893468)
-[![Android TV](https://img.shields.io/badge/Android%20TV-4285F4?style=for-the-badge&logo=google-tv&logoColor=white)](https://cdn.kollersi.com/apps/kfilms/KFilmsPro_v1.0.4_AndroidTV.apk)
+[![Android TV](https://img.shields.io/badge/Android%20TV-4285F4?style=for-the-badge&logo=google-tv&logoColor=white)](https://kapp.kollersi.com/atv.apk)
 [![iOS](https://img.shields.io/badge/iOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kfilms-pro/id6779041413?l=vi)
 [![tvOS](https://img.shields.io/badge/tvOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/kfilms-pro/id6779041413?platform=tv)
 
