@@ -44,10 +44,9 @@ Bộ ứng dụng Kollersi — tải, đọc, xem và nghe mọi nội dung số
 
 KFilms Pro là một ứng dụng đóng vai trò là trình phát đa phương tiện (media player) và hỗ trợ đồng bộ hóa các liên kết video/phim giữa nhiều thiết bị . Bản thân ứng dụng không chứa sẵn hay cung cấp nội dung phim, mà yêu cầu người dùng phải tự thêm (add) liên kết nội dung của mình vào để phát.
 
-###Các đặc điểm nổi bật của ứng dụng bao gồm:
+### Các đặc điểm nổi bật của ứng dụng bao gồm:
 
 Tự quản lý nội dung: Người dùng hoàn toàn chủ động đưa nguồn video, phim của riêng mình vào ứng dụng để xem.
-
 Đồng bộ đa nền tảng: Hỗ trợ đồng bộ hóa các file media liền mạch giữa các thiết bị khác nhau.
 
 Giao diện quản lý: Giúp hệ thống và bổ sung các thông tin, poster cho các file media của bạn trở nên trực quan và đẹp mắt hơn .Hỗ trợ thiết bị Apple: Ứng dụng đã có mặt trên hệ sinh thái Apple, bao gồm cả Apple TV.
