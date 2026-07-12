@@ -12,6 +12,10 @@ Bộ ứng dụng Kollersi — tải, đọc, xem và nghe mọi nội dung số
 
 <img src="https://img.kollersi.com/docs/kdown_logo.png" width="72" align="left" style="margin-right:16px;border-radius:14px" />
 
+Version 1.0.2
+- Tăng tốc độ download
+- Get link cập nhật theo mã mới.
+
 **Tải file hàng loạt từ mã chia sẻ.** Nhấn nút Kdown ở bài viết  cần tải và để KDown tự động xử lý song song — hỗ trợ EPUB, PDF, CBZ, M4B, MP4 và nhiều định dạng khác.
 
 <br clear="left"/>
