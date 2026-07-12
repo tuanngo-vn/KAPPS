@@ -49,9 +49,11 @@ KFilms Pro là một ứng dụng đóng vai trò là trình phát đa phương 
 - Tự quản lý nội dung: Người dùng hoàn toàn chủ động đưa nguồn video, phim của riêng mình vào ứng dụng để xem.
 - Đồng bộ đa nền tảng: Hỗ trợ đồng bộ hóa các file media liền mạch giữa các thiết bị khác nhau.
 
-Giao diện quản lý: Giúp hệ thống và bổ sung các thông tin, poster cho các file media của bạn trở nên trực quan và đẹp mắt hơn .Hỗ trợ thiết bị Apple: Ứng dụng đã có mặt trên hệ sinh thái Apple, bao gồm cả Apple TV.
+Giao diện quản lý: Giúp hệ thống và bổ sung các thông tin, poster cho các file media của bạn trở nên trực quan và đẹp mắt hơn .Hỗ trợ thiết bị Apple: Ứng dụng đã có mặt trên hệ sinh thái Apple, bao gồm cả Apple TV. 
 
 Các thiết bị chính có thể add media: iPhone, Mac, Android. Các thiết bị phụ chỉ nhận media đồng bộ: Android TV, Windows, AppleTV.
+
+Download Android TV bằng DownloadCode: 9582583
 
 <br clear="left"/>
 
@@ -60,7 +62,7 @@ Các thiết bị chính có thể add media: iPhone, Mac, Android. Các thiết
 [![Windows !](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://kapp.kollersi.com/w.zip)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kfilms-pro/id6779041413%20KFilms%20Pro)
 [![Android-Testing](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/apps/internaltest/4701577914910893468)
-[![Android TV](https://img.shields.io/badge/Android%20TV-4285F4?style=for-the-badge&logo=google-tv&logoColor=white)](https://kapp.kollersi.com/atv.apk)
+[![Android TV](https://img.shields.io/badge/Android%20TV-4285F4?style=for-the-badge&logo=google-tv&logoColor=white)](https://kapp.kollersi.com/fatv.apk)
 [![iOS](https://img.shields.io/badge/iOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kfilms-pro/id6779041413?l=vi)
 [![tvOS](https://img.shields.io/badge/tvOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/kfilms-pro/id6779041413?platform=tv)
 
