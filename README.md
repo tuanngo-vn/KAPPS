@@ -63,7 +63,7 @@ Download Android TV bằng DownloadCode: 9582583
 
 <br/>
 
-[![Windows !](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://kapp.kollersi.com/w.zip)
+[![Windows !](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://kapp.kollersi.com/kw.zip)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/kfilms-pro/id6779041413%20KFilms%20Pro)
 [![Android-Testing](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/apps/internaltest/4701577914910893468)
 [![Android TV](https://img.shields.io/badge/Android%20TV-4285F4?style=for-the-badge&logo=google-tv&logoColor=white)](https://kapp.kollersi.com/fatv.apk)
